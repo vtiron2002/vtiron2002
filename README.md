@@ -1,4 +1,4 @@
-### Hi there, I'm Valentyn [website] 👋
+### Hi there, I'm Valentyn 👋
 
 [![Website](https://img.shields.io/website?label=tiron.ga&style=for-the-badge&url=https%3A%2F%2Ftiron.ga)](https://tiron.ga)
 
